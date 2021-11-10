@@ -1,6 +1,11 @@
 This is a simple spambot using pyautogui. 
 
-NOT TO BE MISUSED!
+**REQUIREMENTS**
+
+pyautogui:
+    pip install pyautogui
+
+
 
 PR's are appreciated 
 peace
